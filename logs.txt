@@ -1,0 +1,5 @@
+useradd: invalid shell '-m'
+useradd: user 'tharun' already exists
+useradd: user 'tharun' already exists
+useradd: Permission denied.
+useradd: cannot lock /etc/passwd; try again later.
